@@ -1,2 +1,2 @@
 # Skibidi-WEB
-Tento web slouží hlavně pro skibidi lidi.
+Tento web je nejlepší na světě !
