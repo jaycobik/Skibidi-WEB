@@ -1,2 +1,2 @@
-# Skibidi-WEB
-Tento web je nejlepší na světě !
+# WEB
+https://jaycobik.github.io/Web/index.html
